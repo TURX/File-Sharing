@@ -1,5 +1,5 @@
 ![Logo](data/open.png)
-!i5class File Sharing Project
+i5class File Sharing Project
 ==========================================
 -----------------------------------
 > 
