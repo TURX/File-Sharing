@@ -172,7 +172,7 @@ Private Const WM_NCLBUTTONDOWN = &HA1
 Private Const HTCAPTION = 2
 Private Sub Command1_Click()
  Dim souru
- souru = "http://vast-light.iask.in:77/uploaded"
+ souru = "http://i5file.ngrok.cc/uploaded"
  URLDownloadToFile 0, souru & "/" & Text1.Text & ".zip", App.Path & "\" & Text1.Text & ".zip", 0, 0
  Timer1.Enabled = True
  Command1.Enabled = False

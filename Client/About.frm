@@ -43,6 +43,25 @@ Begin VB.Form About
       Top             =   4680
       Width           =   1500
    End
+   Begin VB.Label Label3 
+      BackStyle       =   0  'Transparent
+      Caption         =   "GitHub Open Source:https://github.com/TURX/File-Sharing"
+      BeginProperty Font 
+         Name            =   "Î¢ÈíÑÅºÚ"
+         Size            =   9
+         Charset         =   134
+         Weight          =   400
+         Underline       =   0   'False
+         Italic          =   0   'False
+         Strikethrough   =   0   'False
+      EndProperty
+      ForeColor       =   &H00FFFFFF&
+      Height          =   330
+      Left            =   5520
+      TabIndex        =   6
+      Top             =   4080
+      Width           =   5565
+   End
    Begin VB.Image Image1 
       Height          =   4650
       Left            =   360
